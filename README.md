@@ -10,7 +10,7 @@ Library attributes protected and accessed usign encapsulation attributes. Stores
 Testing Scenarios:
 <br><br>
 
-<img src = "images/img1.png" height = 200px width = 400px> <br><br>
+<img src = "images/img1.png" height = 204px width = 247px> <br><br>
 
 <img src = "images/img2.png"> <br><br>
 
